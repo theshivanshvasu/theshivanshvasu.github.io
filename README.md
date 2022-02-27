@@ -1,1 +1,2 @@
-# Linktree by TheShivanshVasu
+# Linktree
+By & For - TheShivanshVasu
